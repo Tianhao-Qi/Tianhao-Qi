@@ -17,18 +17,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt&include_repos=bytedance/DEADiff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianhao-Qi&hide=html&layout=compact&theme=radical)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianhao-Qi&theme=monokai)
-
----
-
-### 🌟 Stars
-
-![⭐ My personal total stars](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt&include_forks=true)
-![⭐ DEADiff](https://img.shields.io/github/stars/bytedance/DEADiff?style=social)
 
 ---
 
