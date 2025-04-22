@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-ce0h6xkl5-tianhao-qis-projects.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt&include_repos=bytedance/DEADiff)
+![GitHub Stats](https://github-readme-stats-ce0h6xkl5-tianhao-qis-projects.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt&include_repos=bytedance/DEADiff&v=2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianhao-Qi&hide=html&layout=compact&theme=radical)
 
