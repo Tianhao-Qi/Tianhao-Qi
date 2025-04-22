@@ -1,40 +1,44 @@
 ### Hi there 👋! I'm Tianhao‑Qi 🎓
 
-<!--
-**Tianhao‑Qi/Tianhao‑Qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub profile!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently researching cross‑modal visual content generation
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
--->
+#### 🚀 About Me
+- 🔭 I’m currently researching **cross‑modal visual content generation**  
+- 🌱 I’m currently learning advanced techniques in multi‑modal deep learning  
+- 👯 I’m looking to collaborate on projects involving image/video generation  
+- 🤔 I’m looking for help with large‑scale distributed training setups  
+- 💬 Ask me about Python, PyTorch, DeepSpeed  
+- 📫 How to reach me: qth@mail.ustc.edu.cn  
+- 😄 Pronouns: he/him  
 
-<!-- ### Stats -->
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt)
+### 📊 GitHub Stats
 
-<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianhao-Qi&hide=html&layout=compact&theme=radical)
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianhao-Qi&theme=monokai)
--->
 
-<!--
+---
 
-### Tags
+### 🌟 Stars
 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![⭐ My personal total stars](https://github-readme-stats.vercel.app/api?username=Tianhao-Qi&show_icons=true&theme=cobalt&include_forks=true)
+![⭐ DEADiff](https://img.shields.io/github/stars/bytedance/DEADiff?style=social)
 
-![MacOS](https://img.shields.io/static/v1?style=for-the-badge&message=MacOS&color=000000&logo=Apple&logoColor=FFFFFF&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+---
 
-![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
-![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
--->
+### 🏷️ Technologies & Tools
+
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF)
+![DeepSpeed](https://img.shields.io/static/v1?style=for-the-badge&message=DeepSpeed&color=0A66C2&logo=PyTorch&logoColor=FFFFFF)
+![CUDA](https://img.shields.io/static/v1?style=for-the-badge&message=CUDA&color=F76E11&logo=NVIDIA&logoColor=FFFFFF)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF)
+
+---
