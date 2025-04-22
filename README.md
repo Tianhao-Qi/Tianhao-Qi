@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning advanced techniques in multi‑modal deep learning  
 - 👯 I’m looking to collaborate on projects involving image/video generation  
 - 🤔 I’m looking for help with large‑scale distributed training setups  
-- 💬 Ask me about Python, PyTorch, DeepSpeed  
+- 💬 Ask me about Python, PyTorch and DeepSpeed  
 - 📫 How to reach me: qth@mail.ustc.edu.cn  
 - 😄 Pronouns: he/him  
 
